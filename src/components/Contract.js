@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const Contract = () => {
-  return (  
+  return (   
     <div className="container">
     <h4 className="center">Contract</h4>
     <p>Loren ipsum dolor sit amet consetectur
